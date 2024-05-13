@@ -2,7 +2,10 @@
  
 🏫 I'm studying Computer Science at Queen Mary University of London. 
 
-📖 Currently improving my skillset in Machine Learning, Cybersecurity, Mobile App and Web Development, revising the fundamentals of Computer Science, and also exploring other areas of Software Development.
+📖 Currently improving my skillset in Machine Learning, Cybersecurity, Mobile App and Web Development, revising the fundamentals of Computer Science, and also exploring other areas of Software Development. </br>
+Some of the other bigger things in my to-do list are: 
+- Exploring projects where I can use my Raspberry Pi and Intel Galileo
+- Planning different ways to reimplement or improve my university coursework projects
 
 
 ### Programming Languages
@@ -40,12 +43,7 @@ You can connect with me on the socials below:
  
 </div>
 
-<!--- 
-- 🌱 I’m currently studying Computer Science at Queen Mary University of London
-- 💞️ I’m looking to collaborate on any beginner friendly open source projects
-- 📫 How to reach me: Email: asifabdullah47@gmail.com LinkedIn: linkedin.com/in/asif14
 
---->
 
 <!---
 Asif2714/Asif2714 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
