@@ -29,7 +29,7 @@
 ### Socials
 You can connect with me on the socials below:
 <div id="badges">
-  <a href="linkedin.com/in/asif14">
+  <a href="https://www.linkedin.com/in/asif14/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
