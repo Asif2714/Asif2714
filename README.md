@@ -40,12 +40,17 @@ You can connect with me on the socials below:
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 
+
  
 </div>
 
 
 
 <!---
+Add this later after socials: 
+![](https://leetcard.jacoblin.cool/Asif2714?ext=heatmap)
+
+
 Asif2714/Asif2714 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
